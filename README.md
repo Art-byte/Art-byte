@@ -1,4 +1,13 @@
 ### Hey 👋🏽, I'm, Arturo! you can also call me chak mol
+<br />
+<a href="https://www.linkedin.com/in/jos%C3%A9-arturo-pedraza-bonilla/">
+  <img align="left" alt="Arturo LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/art_pdrz233">
+  <img align="left" alt="Arturo instagram" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
 
 ---
 
@@ -42,19 +51,3 @@ I am a back-end developer looking for new challenges. My passion is programming 
 ![Arturo's github stats](https://github-readme-stats.vercel.app/api?username=Art-byte&theme=blue-green)
 
 ---
-
-### You can find in me in the web 🌍
-<a href="https://www.linkedin.com/in/jos%C3%A9-arturo-pedraza-bonilla/">
-  <img align="left" alt="Arturo LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/art_pdrz233">
-  <img align="left" alt="Arturo instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://t.me/art_pdrz">
-  <img align="left" alt="Arturo instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
-<br />
-<br />
-
